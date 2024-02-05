@@ -1,0 +1,8 @@
+cat $HOME/.profile
+
+apt install golang-go
+
+go version
+
+------------------------------------------------------------------
+install docker
